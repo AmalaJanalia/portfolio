@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Amala Traders",
+    "imageSrc": "projects/ec.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Html", "css","javascript", "Node"],
+    "demo": "https://github.com/AmalaJanalia/amalatraders",
+    "source": "https://github.com/AmalaJanalia/amalatraders"
+  },
+  {
+    "title": "E-learning platform",
+    "imageSrc": "projects/learner.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Html", "CSS"],
+    "demo": "https://amalajanalia.github.io/learnerwebsite/",
+    "source": "https://github.com/AmalaJanalia/learnerwebsite"
+  },
+  {
+    "title": "MENTALHEALTH COMPANION",
+    "imageSrc": "projects/login.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "",
+    "source": "https://www.github.com"
+  }
+]
